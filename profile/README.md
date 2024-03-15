@@ -17,7 +17,6 @@ Période de stage en entreprise : Du 29 Juillet 2024  au 25 Octobre 2024
 ![imgReact](./profile/img/react.svg)&nbsp;&nbsp;
 ![imgMySql](./profile/img/mysql1.svg)&nbsp;&nbsp;
 ![imgPhpMyAdmin](./profile/img/PhpMyAdmin.svg)&nbsp;&nbsp;
-![imgWordpress](./profile/img/wordpress.svg) 
 
 <!--
 
