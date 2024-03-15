@@ -1,4 +1,7 @@
-## Hi there 👋
+# DWWM01 - 2024 👋
+### Promo Développeur Web et Web Mobile 
+Du 26 Février 2024 au 06 Novembre 2024
+Période de stage en entreprise : Du 29 Juillet 2024  au 25 Octobre 2024
 
 <!--
 
