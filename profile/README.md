@@ -21,6 +21,10 @@ Période de stage en entreprise : Du 29 Juillet 2024  au 25 Octobre 2024
 ![imgMySql](./profile/img/mysql1.svg)&nbsp;&nbsp;
 ![imgPhpMyAdmin](./profile/img/PhpMyAdmin.svg)&nbsp;&nbsp;
 
+# CCP1 : Front - End    
+Développer la partie Front-End d'une application Web   
+ou Web Mobile en intégrant les recommandations de sécurité
+
 <!--
 
 **Here are some ideas to get you started:**
