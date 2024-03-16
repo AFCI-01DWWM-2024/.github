@@ -28,6 +28,7 @@ ou Web Mobile en intégrant les recommandations de sécurité
 | :---- |:-------:| :-----:|
 |  |  ![imgGit](./profile/img/git.svg)&nbsp;|![imgHtml](./profile/img/html.svg)&nbsp;![imgCSS](./profile/img/css.svg) ![imgLess](./profile/img/less-1.svg)&nbsp;&nbsp;|
 | Emeline  | <a href="https://github.com/EmyFoxB">🔗</a>     |
+| Emeline  | <a href="https://github.com/EmyFoxB">🔗</a>     |
 
 <!--
 
