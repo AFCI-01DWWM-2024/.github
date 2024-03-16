@@ -24,7 +24,7 @@ Période de stage en entreprise : Du 29 Juillet 2024  au 25 Octobre 2024
 # CCP1 : Front - End    
 Développer la partie Front-End d'une application Web   
 ou Web Mobile en intégrant les recommandations de sécurité
-| Developer | GitHub |MaquetteMassif IntégrationWeb |
+| Developer | GitHub |IntégrationWeb |
 | :---- |:-------:| :-----:|
 
 <!--
