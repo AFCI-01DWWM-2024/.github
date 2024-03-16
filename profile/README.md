@@ -27,7 +27,6 @@ ou Web Mobile en intégrant les recommandations de sécurité
 | Developer | GitHub |IntégrationWeb |
 | :---- |:-------:| :-----:|
 |  |  ![imgGit](./profile/img/git.svg)&nbsp;|![imgHtml](./profile/img/html.svg)&nbsp;![imgCSS](./profile/img/css.svg) ![imgLess](./profile/img/less-1.svg)&nbsp;&nbsp;|
-
 | Lucas  | <a href="https://github.com/LucasDEKINDT">🔗</a>     |
 
 <!--
