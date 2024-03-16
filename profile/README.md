@@ -28,7 +28,18 @@ ou Web Mobile en intégrant les recommandations de sécurité
 | :---- |:-------:| :-----:|
 |  |  ![imgGit](./profile/img/git.svg)&nbsp;|![imgHtml](./profile/img/html.svg)&nbsp;![imgCSS](./profile/img/css.svg) ![imgLess](./profile/img/less-1.svg)&nbsp;&nbsp;|
 | Emeline  | <a href="https://github.com/EmyFoxB">🔗</a>     |
-| Emeline  | <a href="https://github.com/EmyFoxB">🔗</a>     |
+| marvin  | <a href="https://github.com/EmyFoxB">🔗</a>     |
+| Rémy  | <a href="https://github.com/EmyFoxB">🔗</a>     |
+| Axel  | <a href="https://github.com/EmyFoxB">🔗</a>     |
+| Ethan  | <a href="https://github.com/EmyFoxB">🔗</a>     |
+| Céline  | <a href="https://github.com/EmyFoxB">🔗</a>     |
+| Romain  | <a href="https://github.com/EmyFoxB">🔗</a>     |
+| Matthias  | <a href="https://github.com/EmyFoxB">🔗</a>     |
+| Gaëtan  | <a href="https://github.com/EmyFoxB">🔗</a>     |
+| Sarah  | <a href="https://github.com/EmyFoxB">🔗</a>     |
+| Thomas  | <a href="https://github.com/EmyFoxB">🔗</a>     |
+| Thomas  | <a href="https://github.com/EmyFoxB">🔗</a>     |
+
 
 <!--
 
