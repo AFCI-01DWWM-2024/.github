@@ -11,6 +11,7 @@ Période de stage en entreprise : Du 29 Juillet 2024  au 25 Octobre 2024
 ![imgHtml](./profile/img/html.svg) &nbsp;&nbsp;
 ![imgCSS](./profile/img/css.svg)&nbsp;&nbsp;
 ![imgLess](./profile/img/less.svg)&nbsp;&nbsp; 
+![imgDocker](./profile/img/docker.svg)&nbsp;&nbsp;
 ![imgPhp](./profile/img/php.svg)&nbsp;&nbsp;
 ![imgSymfony](./profile/img/symfony.svg)&nbsp;&nbsp;
 ![imgBootStrap](./profile/img/bootstrap.svg)&nbsp;&nbsp; 
