@@ -48,7 +48,7 @@ Développer la partie Back-End d'une application Web
 ou Web Mobile en intégrant les recommandations de sécurité  
 | Developer | GitHub |IntégrationWeb |
 | :---- |:-------:| :-----:|
-|  |  ![imgGit](./profile/img/git.svg)&nbsp;|![imgHtml](./profile/img/html.svg)&nbsp;![imgCSS](./profile/img/css.svg) ![imgLess](./profile/img/less-1.svg)&nbsp;&nbsp;|
+|  |  ![imgGit](./profile/img/git.svg)&nbsp;|![imgPhp](./profile/img/php1.svg)&nbsp;&nbsp;|
 | Emeline  | <a href="https://github.com/EmyFoxB">🔗</a>     |
 | marvin  | <a href="https://github.com/ColleMarvin">🔗</a>     |
 | Rémy  | <a href="https://github.com/Lansweg">🔗</a>     |
