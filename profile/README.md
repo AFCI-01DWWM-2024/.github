@@ -4,6 +4,8 @@ Du 26 Février 2024 au 06 Novembre 2024
 
 Période de stage en entreprise : Du 29 Juillet 2024  au 25 Octobre 2024
 
+## [Préparation oral](https://github.com/AFCI-DWWM01-2023/PRESENTATION.git)
+
 ## Languages & Tools  
 ![imgGit](./profile/img/git.svg)&nbsp;&nbsp;
 ![imgVscode](./profile/img/vscode.svg)&nbsp;&nbsp;
