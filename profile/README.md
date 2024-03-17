@@ -45,6 +45,22 @@ ou Web Mobile en intégrant les recommandations de sécurité
 # CCP2 - Back - End
 Développer la partie Back-End d'une application Web  
 ou Web Mobile en intégrant les recommandations de sécurité  
+| Developer | GitHub |IntégrationWeb |
+| :---- |:-------:| :-----:|
+|  |  ![imgGit](./profile/img/git.svg)&nbsp;|![imgHtml](./profile/img/html.svg)&nbsp;![imgCSS](./profile/img/css.svg) ![imgLess](./profile/img/less-1.svg)&nbsp;&nbsp;|
+| Emeline  | <a href="https://github.com/EmyFoxB">🔗</a>     |
+| marvin  | <a href="https://github.com/ColleMarvin">🔗</a>     |
+| Rémy  | <a href="https://github.com/Lansweg">🔗</a>     |
+| Axel  | <a href="https://github.com/DelannoyAxel">🔗</a>     |
+| Ethan  | <a href="https://github.com/EthanDelannoy">🔗</a>     |
+| Céline  | <a href="https://github.com/Nelicee">🔗</a>     |
+| Romain  | <a href="https://github.com/rdulongcourty">🔗</a>     |
+| Matthias  | <a href="https://github.com/Tortthias">🔗</a>     |
+| Gaëtan  | <a href="https://github.com/GaetanHosselet">🔗</a>     |
+| Sarah  | <a href="https://github.com/sarahjandau">🔗</a>     |
+| Thomas  | <a href="">🔗</a>     |
+| Bérenger  | <a href="https://github.com/PBerenger">🔗</a>     |
+
 
 
 <!--
