@@ -26,7 +26,7 @@ Période de stage en entreprise : Du 29 Juillet 2024  au 25 Octobre 2024
 # CCP1 : Front - End    
 Développer la partie Front-End d'une application Web   
 ou Web Mobile en intégrant les recommandations de sécurité
-| Developer | GitHub |IntégrationWeb |
+| Developer | GitHub |IntégrationWeb - EXPOSE |
 | :---- |:-------:| :-----:|
 |  |  ![imgGit](./profile/img/git.svg)&nbsp;|![imgHtml](./profile/img/html.svg)&nbsp;![imgCSS](./profile/img/css.svg) ![imgLess](./profile/img/less-1.svg)&nbsp;&nbsp;|
 | Emeline  | <a href="https://github.com/EmyFoxB">🔗</a>     |
