@@ -43,7 +43,7 @@ ou Web Mobile en intégrant les recommandations de sécurité
 | Bérenger  | <a href="https://github.com/PBerenger">🔗</a>     |
 
 ## Briefs - Front-end
-- [Intégration Web : MASSIF-🚩](https://github.com/AFCI-01DWWM-2024/Brief_Expose.git)
+- [Intégration Web : EXPOSE-🚩](https://github.com/AFCI-01DWWM-2024/Brief_Expose.git)
 
 
 # CCP2 - Back - End
