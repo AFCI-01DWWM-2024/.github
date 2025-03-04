@@ -7,7 +7,7 @@ Période de stage en entreprise : Du 29 Juillet 2024  au 25 Octobre 2024
 ## [Préparation oral](https://github.com/AFCI-01DWWM-2024/PRESENTATION.git)
 
 ## Languages & Tools  
-![imgGit](./profile/img/git.svg)&nbsp;&nbsp;
+![imgGit](../profile/img/git.svg)&nbsp;&nbsp;
 ![imgVscode](./profile/img/vscode.svg)&nbsp;&nbsp;
 ![imgFigma](./profile/img/figma.svg)&nbsp;&nbsp;
 ![imgHtml](./profile/img/html.svg) &nbsp;&nbsp;
